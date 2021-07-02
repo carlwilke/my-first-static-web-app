@@ -1,13 +1,12 @@
 import React from 'react';
 
 function App() {
-  const value = 'friends';
   return (
-  <div>
+    <div>
       <h1>My Todos</h1>
-      <Todo text='Learn React on an Azure Static Single Page' />
+      <Todo text='Learn React' />
     </div>
-    );
+  );
 }
 
 export default App;
