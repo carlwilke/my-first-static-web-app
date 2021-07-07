@@ -7,6 +7,7 @@ function App() {
       <h1>Todos</h1>
       <h2>My Little List</h2>
     <Todo text='Learn React'/>
+    <button>Click Me</button>
     </div>
   );
 }
