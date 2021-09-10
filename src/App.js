@@ -9,6 +9,7 @@ function App() {
     <Todo text='Learn React'/>
     <button>Click Me</button>
     <h2>This little app is using a modal pop-upp</h2>
+    <h2>In a separate module taht is called from here</h2>
     </div>
   );
 }
